@@ -1,0 +1,10 @@
+
+After PR, Main branch is updated:
+
+in your main local branch - take pull
+go to your branch in local- git merge main, commit you changes and then push. 
+
+
+Git Rebase, Interactive Rebase
+Git Squash
+Git Cherry-pick
